@@ -66,7 +66,8 @@ cocomanhua.com##div:nth-of-type(10)
 youtube.com###masthead-ad
 youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-compact-promoted-item-renderer.style-scope
 youtube.com###player-ads
-youtube.com###ytm-rich-item-renderer:nth-of-type(1)
+youtube.com###ytm-promoted-video-renderer
+!youtube.com###ytm-rich-item-renderer:nth-of-type(1)
 
 ! 2020-12-23 https://www.facebook.com
 facebook.com##div:nth-of-type(7)

@@ -42,13 +42,13 @@ stock888.cn
 
 ! 2020-12-23 https://www.manhuagui.com
 run-syndicate.com
-www.manhuagui.com###rn_ad_native_ltmou
-www.manhuagui.com##.gg_980
-www.manhuagui.com##div.gg_950
-www.manhuagui.com###rn_ad_native_odrv6
-www.manhuagui.com##.ra-4x1
-www.manhuagui.com##.mn-related-container_no-responsive.mn-related-container
-www.manhuagui.com##div.mt10:nth-of-type(2)
+manhuagui.com###rn_ad_native_ltmou
+manhuagui.com##.gg_980
+manhuagui.com##div.gg_950
+manhuagui.com###rn_ad_native_odrv6
+manhuagui.com##.ra-4x1
+manhuagui.com##.mn-related-container_no-responsive.mn-related-container
+manhuagui.com##div.mt10:nth-of-type(2)
 
 ! 2020-12-23 https://m.manhuagui.com
 ad.sitemaji.com
@@ -57,8 +57,8 @@ ad.sitemaji.com
 s3t3d2y7.ackcdn.net
 syndication.exdynsrv.com/ads-iframe-display.php
 ssionsupre.fun
-www.cocomanhua.com##.website-pc-read-common
-www.cocomanhua.com##div:nth-of-type(10)
+cocomanhua.com##.website-pc-read-common
+cocomanhua.com##div:nth-of-type(10)
 a.exdynsrv.com/nativeads-v2.js
 
 ! 2020-12-23 https://www.youtube.com

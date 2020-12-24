@@ -69,5 +69,6 @@ youtube.com###player-ads
 youtube.com###ytm-promoted-video-renderer
 !youtube.com###ytm-rich-item-renderer:nth-of-type(1)
 
+
 ! 2020-12-23 https://www.facebook.com
 facebook.com##div:nth-of-type(7)

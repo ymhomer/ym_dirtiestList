@@ -1,0 +1,16 @@
+! 2020-12-22 https://www.jsr9.com
+! 2020-12-20 http://www.y80s.com
+
+||pic.cytcm.com/*$image
+||v.heygugu.com/syjpc/*.gif$image
+||v.heygugu.com/a/$image
+||cdn.jsdelivr.net$image
+||p.pstatp.com$image
+
+!unsafe list
+infiniwin1.net
+clicnews.com
+dfwdiesel.net
+divineenterprises.net
+gardensrestaurantandcatering.com
+stock888.cn

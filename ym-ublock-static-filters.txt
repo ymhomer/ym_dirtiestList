@@ -39,3 +39,21 @@ wadefamilytree.org
 xnescat.info
 yt118.com
 stock888.cn
+
+! 2020-12-23 https://www.manhuagui.com
+run-syndicate.com
+www.manhuagui.com###rn_ad_native_ltmou
+www.manhuagui.com##.gg_980
+www.manhuagui.com##div.gg_950
+www.manhuagui.com###rn_ad_native_odrv6
+www.manhuagui.com##.ra-4x1
+www.manhuagui.com##.mn-related-container_no-responsive.mn-related-container
+www.manhuagui.com##div.mt10:nth-of-type(2)
+
+! 2020-12-23 https://www.youtube.com
+www.youtube.com###masthead-ad
+www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-compact-promoted-item-renderer.style-scope
+www.youtube.com###player-ads
+
+! 2020-12-23 https://www.facebook.com
+www.facebook.com##div:nth-of-type(7)

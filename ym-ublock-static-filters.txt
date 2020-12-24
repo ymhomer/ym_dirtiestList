@@ -50,6 +50,9 @@ www.manhuagui.com##.ra-4x1
 www.manhuagui.com##.mn-related-container_no-responsive.mn-related-container
 www.manhuagui.com##div.mt10:nth-of-type(2)
 
+! 2020-12-23 https://m.manhuagui.com
+||ad.sitemaji.com
+
 ! 2020-12-23 https://www.youtube.com
 www.youtube.com###masthead-ad
 www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-compact-promoted-item-renderer.style-scope

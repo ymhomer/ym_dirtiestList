@@ -60,7 +60,8 @@ ad.sitemaji.com
 ! 2020-12-23 https://www.cocomanhua.com
 ||cocomanhua.com^$popup
 ||s3t3d2y7.ackcdn.net
-||syndication.exdynsrv.com/ads-iframe-display.php
+||syndication.exdynsrv.com
+!||syndication.exdynsrv.com/ads-iframe-display.php
 ||ssionsupre.fun
 ||96bvvinawayspin.com
 ||getlaidtonite.net

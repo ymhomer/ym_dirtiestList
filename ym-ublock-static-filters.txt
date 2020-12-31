@@ -44,6 +44,19 @@
 regal88.org
 xm.com
 
+! 2020-12-23 https://www.youtube.com
+youtube.com###masthead-ad
+!youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-compact-promoted-item-renderer.style-scope
+youtube.com###player-ads
+youtube.com###ytm-promoted-video-renderer
+youtube.com###ytm-rich-item-renderer:nth-of-type(1)
+youtube.com###ad-created
+youtube.com###ad-showing
+youtube.com###ad-interrupting
+
+! 2020-12-23 https://www.facebook.com
+facebook.com##div:nth-of-type(7)
+
 ! 2020-12-23 https://www.manhuagui.com
 run-syndicate.com
 manhuagui.com###rn_ad_native_ltmou
@@ -69,15 +82,11 @@ a.exdynsrv.com/nativeads-v2.js
 cocomanhua.com##.website-pc-read-common
 cocomanhua.com##div:nth-of-type(10)
 
-! 2020-12-23 https://www.youtube.com
-youtube.com###masthead-ad
-!youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-compact-promoted-item-renderer.style-scope
-youtube.com###player-ads
-youtube.com###ytm-promoted-video-renderer
-youtube.com###ytm-rich-item-renderer:nth-of-type(1)
-youtube.com###ad-created
-youtube.com###ad-showing
-youtube.com###ad-interrupting
+! 2020-12-31 https://www.36mh.net
+||36mh.net^$popup
+www.36mh.net##div:nth-of-type(4)
+www.36mh.net###HMRichBox
+www.36mh.net###hbidbox
+www.36mh.net##body > .xf-right
+||v.heygugu.com
 
-! 2020-12-23 https://www.facebook.com
-facebook.com##div:nth-of-type(7)

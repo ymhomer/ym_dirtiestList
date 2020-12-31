@@ -84,7 +84,7 @@ cocomanhua.com##div:nth-of-type(10)
 
 ! 2020-12-31 https://www.36mh.net
 ||36mh.net^$popup
-www.36mh.net##div:nth-of-type(4)
+! www.36mh.net##div:nth-of-type(4)
 www.36mh.net###HMRichBox
 www.36mh.net###hbidbox
 www.36mh.net##body > .xf-right

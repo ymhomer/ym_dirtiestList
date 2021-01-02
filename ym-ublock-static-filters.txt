@@ -55,6 +55,7 @@ youtube.com###ad-showing
 youtube.com###ad-interrupting
 youtube.com###dismissable > .yt-simple-endpoint.ytd-display-ad-renderer.style-scope
 youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-display-ad-renderer.style-scope
+youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-compact-promoted-item-renderer.style-scope
 
 ! 2020-12-23 https://www.facebook.com
 facebook.com##div:nth-of-type(7)

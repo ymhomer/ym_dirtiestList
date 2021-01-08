@@ -8,41 +8,40 @@
 ||p.pstatp.com$image
 
 ! dirtiest websites list updated 24 DEC 2020
-||17ebook.com
-||aladel.net
-||bpwhamburgorchardpark.org
-||clicnews.com
-||dfwdiesel.net
-||divineenterprises.net
-||fantasticfilms.ru
-||gardensrestaurantandcatering.com
-||ginedis.com
-||gncr.org
-||hdvideoforums.org
-||hihanin.com
-||kingfamilyphotoalbum.com
-||likaraoke.com
-||mactep.org
-||magic4you.nu
-||marbling.pe.kr
-||nacjalneg.info
-||pronline.ru
-||purplehoodie.com
-||qsng.cn
-||seksburada.net
-||sportsmansclub.net
-||stock888.cn
-||tathli.com
-||teamclouds.com
-||texaswhitetailfever.com
-||wadefamilytree.org
-||xnescat.info
-||yt118.com
-||stock888.cn
+||17ebook.com^
+||aladel.net^
+||bpwhamburgorchardpark.org^
+||clicnews.com^
+||dfwdiesel.net^
+||divineenterprises.net^
+||fantasticfilms.ru^
+||gardensrestaurantandcatering.com^
+||ginedis.com^
+||gncr.org^
+||hdvideoforums.org^
+||hihanin.com^
+||kingfamilyphotoalbum.com^
+||likaraoke.com^
+||mactep.org^
+||magic4you.nu^
+||marbling.pe.kr^
+||nacjalneg.info^
+||pronline.ru^
+||purplehoodie.com^
+||qsng.cn^
+||seksburada.net^
+||sportsmansclub.net^
+||stock888.cn^
+||tathli.com^
+||teamclouds.com^
+||texaswhitetailfever.com^
+||wadefamilytree.org^
+||xnescat.info^
+||yt118.com^
 
 ! dirtiest websites for Malaysia list updated 24 DEC 2020
-regal88.org
-xm.com
+||regal88.org^
+||xm.com^
 
 ! 2020-12-23 https://www.youtube.com
 youtube.com###masthead-ad
@@ -71,7 +70,7 @@ manhuagui.com##.mn-related-container_no-responsive.mn-related-container
 manhuagui.com##div.mt10:nth-of-type(2)
 
 ! 2020-12-23 https://m.manhuagui.com
-ad.sitemaji.com
+||ad.sitemaji.com^
 
 ! 2020-12-23 https://www.cocomanhua.com
 ||cocomanhua.com^$popup
@@ -95,5 +94,4 @@ cocomanhua.com##div:nth-of-type(10)
 www.36mh.net###HMRichBox
 www.36mh.net###hbidbox
 www.36mh.net##body > .xf-right
-||v.heygugu.com
-
+||v.heygugu.com^
